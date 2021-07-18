@@ -1,0 +1,13 @@
+name: Cleanclaims
+version: ${project.version}
+main: fr.quentin.cleanclaims.Cleanclaims
+api-version: 1.16
+
+commands:
+  cleanclaims:
+    permission: cleanclaims.admin
+
+permissions:
+  cleanclaims.admin:
+    description: Allow usage of command cleanclaims
+    default: op

@@ -1,0 +1,7 @@
+criteria:
+  send-bank-balance-and-cashback-to-owner-when-land-deleted: true
+  log-sent-to-player-that-started-cleaning: true
+  log-sent-to-console: true
+  log-format: '&7[&ccleanclaims&7] &f- %s'
+  max-number-of-chunks: 2
+  min-seconds-with-last-join: 2628000
